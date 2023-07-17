@@ -20,7 +20,7 @@ while True:
     opcao = input(MENU)
 
     if opcao == "d":
-        valor = float(input("Informe valor do deposito: "))
+        valor = float(input("Informe valor do deposito:R$ "))
         print("deposito realizado com sucesso")
 
         if valor > 0:
