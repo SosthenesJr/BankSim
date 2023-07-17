@@ -18,4 +18,9 @@
 2. Abra um terminal ou prompt de comando e navegue até o diretório onde os arquivos do projeto estão localizados.
 
 3. Execute o seguinte comando para iniciar o programa: BankSim
-4. 4. Siga as instruções exibidas no menu para interagir com o programa e realizar as operações bancárias.
+
+4. Siga as instruções exibidas no menu para interagir com o programa e realizar as operações bancárias.
+
+## Licença
+
+Este projeto é licenciado sob a [MIT License](LICENSE).
