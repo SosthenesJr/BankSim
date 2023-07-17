@@ -1,4 +1,7 @@
-#BankSim é um programa simples de simulação de operações bancárias. Ele permite que o usuário realize depósitos, saques e verifique o extrato de uma conta bancária fictícia.
+#BankSim
+
+
+BankSim é um programa simples de simulação de operações bancárias. Ele permite que o usuário realize depósitos, saques e verifique o extrato de uma conta bancária fictícia.
 
 
 ## Funcionalidades
